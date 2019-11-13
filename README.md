@@ -1,8 +1,8 @@
 # React Paginantion
 
 ## Dependencies
-React, of course, this is intended for use in React projects.
-(Bulma)[https://bulma.io/] for styling.
+React, of course, this is intended for use in React projects.  
+[Bulma](https://bulma.io/) for styling.
 
 ## How to use this
 I sugest download this as a zip and add Pagination.js and PaginationContent.js to your project folder.
